@@ -1,0 +1,10 @@
+Planet,Size_km,Habitability_second,Type,Age_billion_years,Color,Moons
+Mercury,4879,34,Rock,4.5,Gray,0
+Venus,12104,0.1,Rock,4.5,Yellowish-white,0
+Earth,12742,999999999999999999999999999999999999999999999999999999999999999999999999999999999,Rock,4.5,Blue/Green/Brown,1
+Mars,6779,73,Rock,4.6,Red,2
+Jupiter,139820,0.001,Gas,4.6,Orange/White,95
+Saturn,116460,0.03,Gas,4.6,Pale Yellow,146
+Uranus,50724,0.09,Ice,4.6,Cyan,28
+Neptune,49244,0.095,Ice,4.6,Blue-White,16
+Pluto,2376,15,Ice/Rock,4.6,Brownish-White,4
